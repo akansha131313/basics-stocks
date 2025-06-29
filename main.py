@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 
 st.set_page_config(page_title="Learn how to invest")
-st.title("Learn how to invest with Chatty the bot!")
+st.title("Learn how to invest with a bot!")
 
 st.write("Ask me anything about stocks, ETFs, or how to get started with investing! \n Also you can ask me to show you a stocks graph.")
 # ticker = st.text_input("Enter a stock ticker symbol (e.g., NVDA, MSFT):")
